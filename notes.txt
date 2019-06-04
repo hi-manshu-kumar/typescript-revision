@@ -1,0 +1,24 @@
+Why TypeScript?
+->superset of js
+->built by microsoft
+->compiles down to regular js
+->tends to be less error prone
+->lends to code readability and maintainability
+
+variable types
+return types
+classes
+Enums(string and Number)
+Interfaces
+Intersection types
+Access Modifiers
+
+General Convention
+
+let example:any = XX;
+
+let a:boolean = True;
+
+let b:number = 23;
+
+let c:string = "Hello World!";
